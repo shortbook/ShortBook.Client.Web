@@ -4,6 +4,9 @@
     <h2>Essential Links</h2>
     <ul>
       <li>
+        <b-button variant="success">I'm a button.</b-button>
+      </li>
+      <li>
         <a
           href="https://vuejs.org"
           target="_blank"
